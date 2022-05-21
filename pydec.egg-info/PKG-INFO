@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: pydec
+Version: 1.0.1
+Summary: PyDEC: Software and Algorithms for Discrete Exterior Calculus
+Home-page: http://www.graphics.cs.uiuc.edu/~wnbell/
+Maintainer: PyDEC Developers
+Maintainer-email: wnbell@gmail.com
+License: BSD
+Download-URL: http://code.google.com/p/pydec/downloads/list
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Education
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+License-File: LICENSE.txt
+
+UNKNOWN
+

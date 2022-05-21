@@ -45,7 +45,8 @@ def configuration(parent_package='',top_path=None):
     return config
 
 def setup_package():
-    from numpy.distutils.core import setup
+    # from numpy.distutils.core import setup
+    from setuptools import setup
     from numpy.distutils.misc_util import Configuration
 
     old_path = os.getcwd()
